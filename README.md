@@ -1,8 +1,2 @@
-Header
-
-About me
-
-Language and Tools
-
-follow Me
+![Header](https://github.com/Dmitriy-Tyukh/Dmitriy-Tyukh/blob/master/assets/image.jpg)
 
