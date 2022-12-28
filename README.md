@@ -1,4 +1,4 @@
-![Header](https://github.com/Dmitriy-Tyukh/Dmitriy-Tyukh/blob/master/assets/image.jpg)
+![Header](https://github.com/Dmitriy-Tyukh/Dmitriy-Tyukh/blob/master/assets/img.png)
 
 ### Languages and Tools:
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=47C5FB)
