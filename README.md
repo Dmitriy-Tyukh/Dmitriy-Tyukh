@@ -6,6 +6,7 @@
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=E5D3FF)
 ![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass&logoColor=6296CC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=E9D54D)
 
 
 ### Socials:
